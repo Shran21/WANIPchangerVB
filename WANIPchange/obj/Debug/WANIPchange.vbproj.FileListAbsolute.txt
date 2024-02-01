@@ -1,0 +1,9 @@
+c:\users\shran\documents\visual studio 2013\Projects\WANIPchange\WANIPchange\bin\Debug\WANIPchange.exe.config
+c:\users\shran\documents\visual studio 2013\Projects\WANIPchange\WANIPchange\bin\Debug\WANIPchange.exe
+c:\users\shran\documents\visual studio 2013\Projects\WANIPchange\WANIPchange\bin\Debug\WANIPchange.pdb
+c:\users\shran\documents\visual studio 2013\Projects\WANIPchange\WANIPchange\bin\Debug\WANIPchange.xml
+c:\users\shran\documents\visual studio 2013\Projects\WANIPchange\WANIPchange\obj\Debug\WANIPchange.Resources.resources
+c:\users\shran\documents\visual studio 2013\Projects\WANIPchange\WANIPchange\obj\Debug\WANIPchange.vbproj.GenerateResource.Cache
+c:\users\shran\documents\visual studio 2013\Projects\WANIPchange\WANIPchange\obj\Debug\WANIPchange.exe
+c:\users\shran\documents\visual studio 2013\Projects\WANIPchange\WANIPchange\obj\Debug\WANIPchange.xml
+c:\users\shran\documents\visual studio 2013\Projects\WANIPchange\WANIPchange\obj\Debug\WANIPchange.pdb
